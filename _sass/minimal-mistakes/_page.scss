@@ -33,7 +33,7 @@ body {
   flex: 1 0 auto;
 }
 
-.page {
+.page-w-sidebar {
   @include breakpoint($large) {
     float: inline-end;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -44,6 +44,9 @@ body {
     width: calc(100% - #{$right-sidebar-width});
     padding-inline-end: $right-sidebar-width;
   }
+}
+
+.page {
 
   .page__inner-wrap {
     float: inline-start;
@@ -523,6 +526,13 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.page__related-w-sidebar {
   @include breakpoint($large) {
     float: inline-end;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -530,11 +540,6 @@ body {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
   }
 }
 

@@ -5,7 +5,9 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
+}
 
+.archive-w-sidebar {
   @include breakpoint($large) {
     float: inline-end;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -133,7 +135,7 @@
    ========================================================================== */
 
 .archive {
-  .grid__wrapper {
+  .grid__wrapper-w-sidebar {
     /* extend grid elements to the right */
 
     @include breakpoint($large) {

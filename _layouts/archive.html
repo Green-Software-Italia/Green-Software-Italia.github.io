@@ -15,9 +15,9 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  {% if page.sidebar or page.author_profile %} {% include sidebar.html %} {% endif %}
 
-  <div class="archive">
+  <div class="archive{% if page.sidebar or page.author_profile %} archive-w-sidebar {% endif %}">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
