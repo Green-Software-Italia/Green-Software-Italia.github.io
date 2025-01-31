@@ -134,8 +134,8 @@
    Grid view
    ========================================================================== */
 
-.archive {
-  .grid__wrapper-w-sidebar {
+.archive-w-sidebar {
+  .grid__wrapper {
     /* extend grid elements to the right */
 
     @include breakpoint($large) {
