@@ -26,9 +26,26 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#fff, $link-color, 25%) !default;
 $navicon-link-color-hover: $link-color-hover !default;
-$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
+/* syntax highlighting (base16) */
+$base00: #0F2A2B !default;
+$base01: #1D3C3D !default;
+$base02: #315758 !default;
+$base03: #456B6C !default;
+$base04: #CDE4E5 !default;
+$base05: #E2F2F3 !default;
+$base06: #E2F2F3 !default;
+$base07: #F1F7F6 !default;
+$base08: #FB64B6 !default;
+$base09: #FFD230 !default;
+$base0a: #BBF451 !default;
+$base0b: #05DF72 !default;
+$base0c: #53EAFD !default;
+$base0d: #51A2FF !default;
+$base0e: #C27AFF !default;
+$base0f: #FF6467 !default;
+
+/* Icon colors */
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
