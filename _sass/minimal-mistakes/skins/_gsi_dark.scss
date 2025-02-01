@@ -53,6 +53,54 @@ $base0f: #FF6467 !default;
   color: inherit;
 }
 
+/* Buttons */
+.btn.btn--primary {
+  color: $background-color;
+  &:hover {
+    color: $background-color;
+  }
+}
+
+.btn.btn--inverse {
+  color: $background-color;
+  &:hover {
+    color: $background-color;
+  }
+}
+
+.btn.btn--light-outline {
+  color: $text-color;
+  border: 1px solid #628D8E;
+}
+
+.btn.btn--success {
+  color: $background-color;
+  &:hover {
+    color: $background-color;
+  }
+}
+
+.btn.btn--warning {
+  color: #461901;
+  &:hover {
+    color: #461901;
+  }
+}
+
+.btn.btn--danger {
+  color: #4D0218;
+  &:hover {
+    color: #4D0218;
+  }
+}
+
+.btn.btn--info {
+  color: $background-color;
+  &:hover {
+    color: $background-color;
+  }
+}
+
 /* next/previous buttons */
 .pagination{
   .pagination--pager {
