@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   e aziendali influenzano il pianeta e la società.
 github_username: Green-Software-Italia
 search: true
+locale: it_IT
 atom_feed:
   hide: true
 
