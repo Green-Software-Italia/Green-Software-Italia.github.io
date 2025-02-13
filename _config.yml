@@ -1,5 +1,7 @@
 title: Green Software Italia
 email: green.software.italia@gmail.com
+masthead_title: " "
+logo: /assets/images/LogoGSI.svg
 description: >- # this means to ignore newlines until "baseurl:"
   Una community per parlare di come le decisioni tecnologiche 
   e aziendali influenzano il pianeta e la società.
@@ -78,6 +80,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
       read_time: true
       comments: true
       share: true
