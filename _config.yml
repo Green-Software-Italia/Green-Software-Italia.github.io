@@ -1,5 +1,5 @@
 title: Green Software Italia
-email:
+email: green.software.italia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Una community per parlare di come le decisioni tecnologiche 
   e aziendali influenzano il pianeta e la società.
@@ -56,7 +56,7 @@ author:
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sustainability.week.milano@gmail.com"
+      url: "mailto:green.software.italia@gmail.com"
 
 footer:
   links:
@@ -68,7 +68,7 @@ footer:
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sustainability.week.milano@gmail.com"
+      url: "mailto:green.software.italia@gmail.com"
 
 defaults:
   # _posts
