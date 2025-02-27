@@ -53,11 +53,14 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/green-software-italia"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/+25RssofuT9AwMmY0"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:green.software.italia@gmail.com"
 
 footer:
@@ -65,11 +68,14 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/green-software-italia"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/+25RssofuT9AwMmY0"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:green.software.italia@gmail.com"
 
 defaults:
