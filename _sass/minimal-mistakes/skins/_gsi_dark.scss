@@ -5,6 +5,10 @@
 /* Typography */
 $sans-serif: "Lexend", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, -apple-system, BlinkMacSystemFont, sans-serif !default;
 
+/* Breakpoints */
+$large: 1000px !default;
+$x-large: 1000px !default;
+
 /* Colors */
 $background-color: #021B1A !default;
 $text-color: #F1F7F6 !default;
@@ -123,6 +127,17 @@ $base0f: #FF6467 !default;
   }
 }
 
+/* readers */
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+}
+
+/* Other */
+::selection {
+  background: $active-color !important;
+  color: #021B1A !important;
+}
+
+strong {
+  color: $primary-color;
 }
