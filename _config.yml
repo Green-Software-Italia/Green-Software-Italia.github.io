@@ -60,7 +60,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:green.software.italia@gmail.com"
 
 footer:
@@ -75,7 +75,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Green-Software-Italia"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:green.software.italia@gmail.com"
 
 defaults:

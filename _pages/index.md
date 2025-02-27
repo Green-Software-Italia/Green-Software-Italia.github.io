@@ -36,4 +36,14 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 
 [Guarda la registrazione](https://www.youtube.com/watch?v=zsUpiRWahUM){: target="_blank"} della conferenza online per la settimana della sostenibilità 2024.
 
-[Seguici su Linkedin&nbsp;<i class="fab fa-fw fa-linkedin"></i>](https://www.linkedin.com/company/green-software-italia){: .btn .btn--primary target="_blank"}
+## Novità ✨
+
+Abbiamo aperto la Call for Papers per il primo meetup del 2025, che si terrà il 31 marzo presso il [Talent Garden Calabiana](https://maps.app.goo.gl/HoMFEiBHQ6ASj6bL7){: target="_blank"}.
+
+Hai un talk che parla di tematiche come lo sviluppo sostenibile, green cloud, accessibilità, Diversity & Inclusion? Non perdere tempo e inviaci la tua proposta 👇
+
+Segui tutti gli aggiornamenti sulla [pagina Linkedin](https://www.linkedin.com/company/green-software-italia){: target="_blank"} e nel [canale Telegram](https://t.me/+25RssofuT9AwMmY0){: target="_blank"}.
+
+<div align="center">
+    <a href="https://sessionize.com/green-software-italia-meetup-1/" class="btn btn--primary" target="_blank">Compila la CFP</a>
+</div>
