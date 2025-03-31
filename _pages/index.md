@@ -38,12 +38,14 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 
 ## Novità ✨
 
-Abbiamo aperto la Call for Papers per il primo meetup del 2025, che si terrà il 31 marzo presso il [Talent Garden Calabiana](https://maps.app.goo.gl/HoMFEiBHQ6ASj6bL7){: target="_blank"}.
+Il 31 marzo, in serata, ci troviamo a [Talent Garden Calabiana](https://maps.app.goo.gl/HoMFEiBHQ6ASj6bL7){: target="_blank"} per il primo meetup di Green Software Italia! 🎉
 
-Hai un talk che parla di tematiche come lo sviluppo sostenibile, green cloud, accessibilità, Diversity & Inclusion? Non perdere tempo e inviaci la tua proposta 👇
+Parleremo di come possiamo sviluppare software con un **impatto ambientale ridotto**, di cloud più sostenibile, di **accessibilità** e di **innovazione responsabile**. Insomma, di come chi utilizza la tecnologia può essere più consapevole ed utilizzarla in maniera virtuosa.
+
+Iscriviti ora e partecipa all’evento! Trovi l'agenda completa su Eventbrite. Non perdere l’occasione di far parte della community e condividere idee su un **futuro tecnologico più sostenibile**. 
 
 Segui tutti gli aggiornamenti sulla [pagina Linkedin](https://www.linkedin.com/company/green-software-italia){: target="_blank"} e nel [canale Telegram](https://t.me/+25RssofuT9AwMmY0){: target="_blank"}.
 
 <div align="center">
-    <a href="https://sessionize.com/green-software-italia-meetup-1/" class="btn btn--primary" target="_blank">Compila la CFP</a>
+    <a href="https://www.eventbrite.it/e/biglietti-green-software-italia-kickoff-meetup-1269305078659" class="btn btn--primary" target="_blank">Iscriviti all'evento</a>
 </div>
