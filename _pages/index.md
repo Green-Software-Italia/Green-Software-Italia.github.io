@@ -38,14 +38,16 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 
 ## Novità ✨
 
-Il 31 marzo, in serata, ci troviamo a [Talent Garden Calabiana](https://maps.app.goo.gl/HoMFEiBHQ6ASj6bL7){: target="_blank"} per il primo meetup di Green Software Italia! 🎉
+Dopo il primo entusiasmante appuntamento, ci rivediamo per continuare a esplorare insieme il mondo del **software sostenibile**.
 
-Parleremo di come possiamo sviluppare software con un **impatto ambientale ridotto**, di cloud più sostenibile, di **accessibilità** e di **innovazione responsabile**. Insomma, di come chi utilizza la tecnologia può essere più consapevole ed utilizzarla in maniera virtuosa.
+Il **19 giugno**, in serata, saremo ospiti di [TeamSystem](https://www.linkedin.com/company/teamsystem), in [Via G.B. Pirelli 35, Milano](https://maps.app.goo.gl/asfe62PXDuEpMf1e8), per il secondo meetup di Green Software Italia! 🎉
+
+Parleremo di sviluppo a basso impatto e sarà un’occasione per incontrare chi, come noi, crede che l’**innovazione** possa (e debba) essere anche **responsabile**.
 
 Iscriviti ora e partecipa all’evento! Trovi l'agenda completa su Eventbrite. Non perdere l’occasione di far parte della community e condividere idee su un **futuro tecnologico più sostenibile**. 
 
 Segui tutti gli aggiornamenti sulla [pagina Linkedin](https://www.linkedin.com/company/green-software-italia){: target="_blank"} e nel [canale Telegram](https://t.me/+25RssofuT9AwMmY0){: target="_blank"}.
 
 <div align="center">
-    <a href="https://www.eventbrite.it/e/biglietti-green-software-italia-kickoff-meetup-1269305078659" class="btn btn--primary" target="_blank">Iscriviti all'evento</a>
+    <a href="https://www.eventbrite.com/e/biglietti-green-software-italia-2-meetup-1404316742179" class="btn btn--primary" target="_blank">Iscriviti all'evento</a>
 </div>
