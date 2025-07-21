@@ -36,18 +36,12 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 
 [Guarda la registrazione](https://www.youtube.com/watch?v=zsUpiRWahUM){: target="_blank"} della conferenza online per la settimana della sostenibilità 2024.
 
-## Novità ✨
+## Contribuisci anche tu alla sostenibilità del tech 🫵
 
-Dopo il primo entusiasmante appuntamento, ci rivediamo per continuare a esplorare insieme il mondo del **software sostenibile**.
+![Immagine con su scritto "We want you" e il logo della community Green Software Italia](/assets/images/we-want-you.webp){: .align-center }
 
-Il **19 giugno**, in serata, saremo ospiti di [TeamSystem](https://www.linkedin.com/company/teamsystem), in [Via G.B. Pirelli 35, Milano](https://maps.app.goo.gl/asfe62PXDuEpMf1e8), per il secondo meetup di Green Software Italia! 🎉
+Vuoi dare una mano con **eventi**, **contenuti**, **strumenti** o **advocacy**?
+Al seguente link trovi la nostra [Call for Contributors](https://forms.gle/7cPuexh3WT5LSn3N7)!
 
-Parleremo di sviluppo a basso impatto e sarà un’occasione per incontrare chi, come noi, crede che l’**innovazione** possa (e debba) essere anche **responsabile**.
-
-Iscriviti ora e partecipa all’evento! Trovi l'agenda completa su Eventbrite. Non perdere l’occasione di far parte della community e condividere idee su un **futuro tecnologico più sostenibile**. 
-
-Segui tutti gli aggiornamenti sulla [pagina Linkedin](https://www.linkedin.com/company/green-software-italia){: target="_blank"} e nel [canale Telegram](https://t.me/+25RssofuT9AwMmY0){: target="_blank"}.
-
-<div align="center">
-    <a href="https://www.eventbrite.com/e/biglietti-green-software-italia-2-meetup-1404316742179" class="btn btn--primary" target="_blank">Iscriviti all'evento</a>
-</div>
+Non hai tempo, ma puoi offrire uno **spazio**?
+Qui trovi la [Call for Spaces](https://forms.gle/87rN6sE4u7adu2BZA)!
