@@ -13,14 +13,14 @@ Un progetto nasce meglio quando trova alleati che credono negli stessi valori. P
 
 <div style="display: flex; direction: row; gap: 2rem; flex-wrap: wrap; justify-content: center;">
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/improove.png" alt="Improove" />
+<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/improove.webp" alt="Improove" />
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/Webday.png" alt="Web day" />
+<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/Webday.webp" alt="Web day" />
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/GrUSP.png" alt="GrUSP" />
+<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/GrUSP.webp" alt="GrUSP" />
 
-<img style="width:280px; align-self: center" src="{{ relative_url }}/assets/images/Better_Software.png" alt="Better Software" />
+<img style="width:280px; align-self: center" src="{{ relative_url }}/assets/images/Better_Software.webp" alt="Better Software" />
 
-<img style="width:260px; align-self: center" src="{{ relative_url }}/assets/images/tag_logo.png" alt="Talent Garden" />
+<img style="width:260px; align-self: center" src="{{ relative_url }}/assets/images/tag_logo.webp" alt="Talent Garden" />
 
 </div>
