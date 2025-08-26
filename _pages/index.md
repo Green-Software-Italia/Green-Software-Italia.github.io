@@ -40,12 +40,6 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 </div>
 </div>
 
-## Scopri di più 👀
-
-[Leggi l'articolo](https://tag-env-sustainability.cncf.io/blog/2024-11-cloud-native-sustainability-week-2024-milan/){: target="_blank"} sugli ultimi due eventi che abbiamo organizzato per la Cloud Native Sustainability Week.
-
-[Guarda la registrazione](https://www.youtube.com/watch?v=zsUpiRWahUM){: target="_blank"} della conferenza online per la settimana della sostenibilità 2024.
-
 ## Contribuisci anche tu alla sostenibilità del tech 🫵
 
 ![Immagine con su scritto "We want you" e il logo della community Green Software Italia](/assets/images/we-want-you.webp){: .align-center }
