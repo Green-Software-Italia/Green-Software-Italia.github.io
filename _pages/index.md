@@ -8,27 +8,37 @@ Green Software Italia è una community dedicata a esplorare l’impatto delle sc
 
 Come possiamo sviluppare software con un minore impatto ambientale? In che modo le aziende possono adottare pratiche più sostenibili? Quale ruolo giocano il cloud e il codice ottimizzato nella riduzione del consumo energetico? Queste sono alcune delle domande che guidano il nostro lavoro.
 
-![Foto dell'evento Cloud Native Sustainability Week organizzato a Milano, 2024](/assets/images/milan-meetup.webp){: .align-center style="width:80%"}
+## Cosa facciamo 🚀 
+{: .text-center }
 
-## Cosa facciamo 🚀
+<div class="card_list">
+<div class="card_pair">
+{% include info_card.html icon="fas fa-users-rays" title="Meetup ed eventi" description="per condividere esperienze e best practice sul Green Software"%}
 
-* **Meetup ed eventi** per condividere esperienze e best practice sul Green Software.
+{% include info_card.html icon="fas fa-person-chalkboard" title="Workshop e talk" description="con esperti del settore su sviluppo sostenibile, cloud green, accessibilità e innovazione responsabile"%}
+</div>
+<div class="card_pair">
+{% include info_card.html icon="fas fa-book-open" title="Contenuti e risorse" description="per diffondere conoscenze su software sostenibile e buone pratiche di sviluppo"%}
 
-* **Workshop e talk** con esperti del settore su sviluppo sostenibile, cloud green, accessibilità e innovazione responsabile.
-
-* **Contenuti e risorse** per diffondere conoscenze su software sostenibile e buone pratiche di sviluppo.
-
-* **Collaborazioni** con community, aziende e università per amplificare la cultura del Green IT.
+{% include info_card.html icon="fas fa-hand-holding-hand" title="Collaborazioni" description="con community, aziende e università per amplificare la cultura del Green IT"%}
+</div>
+</div>
 
 ## I nostri valori 🎯
+{: .text-center }
 
-🌿 **Sostenibilità digitale** <br> Ridurre lo spreco di risorse e sviluppare soluzioni più efficienti.
+<div class="card_list">
+<div class="card_pair">
+{% include info_card.html icon="fas fa-seedling" title="Sostenibilità digitale" description="Ridurre lo spreco di risorse e sviluppare soluzioni più efficienti"%}
 
-🦾 **Inclusione e accessibilità** <br> Garantire che la tecnologia sia utilizzabile da tutti.
+{% include info_card.html icon="fas fa-universal-access" title="Inclusione e accessibilità" description="Garantire che la tecnologia sia utilizzabile da tutti"%}
+</div>
+<div class="card_pair">
+{% include info_card.html icon="fas fa-earth-europe" title="Innovazione responsabile" description="Ogni scelta tecnologica ha un impatto e va considerata con attenzione"%}
 
-🌍 **Innovazione responsabile** <br> Ogni scelta tecnologica ha un impatto e va considerata con attenzione.
-
-📚 **Formazione e consapevolezza** <br> Diffondere cultura e strumenti per uno sviluppo più sostenibile.
+{% include info_card.html icon="fas fa-book-open-reader" title="Formazione e consapevolezza" description="Ogni scelta tecnologica ha un impatto e va considerata con attenzione"%}
+</div>
+</div>
 
 ## Scopri di più 👀
 

@@ -1,0 +1,52 @@
+/* ==========================================================================
+   CARDS
+   ========================================================================== */
+
+/*
+   Home cards
+   ========================================================================== */
+
+.card_list {
+  display: flex;
+  flex-direction:row;
+  gap:8px;
+  flex-wrap: wrap;
+}
+
+.card_pair {
+  display: flex;
+  flex-direction:row;
+  gap:8px;
+  flex-wrap: wrap;
+  flex: 1 0 208px;
+}
+
+.info_card {
+  border-radius: 8px;
+  text-align: center;
+  padding: 24px 0px;
+  min-width: 100px;
+  
+  flex: 1 0 100px;
+
+  i {
+    font-size: 32px;
+    color: $primary-color;
+    margin-bottom: 8px;
+  }
+
+  p, h4 {
+    margin: 0;
+    color: $text-color;
+  }
+
+  h4 {
+    color: $primary-color;
+    margin-bottom: 8px;
+  }
+
+  &:hover {
+    background-color: mix($primary-color, $background-color, 10%);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+}
