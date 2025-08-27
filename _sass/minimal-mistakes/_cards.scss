@@ -9,44 +9,105 @@
 .card_list {
   display: flex;
   flex-direction:row;
-  gap:8px;
+  gap: 1em;
   flex-wrap: wrap;
 }
 
 .card_pair {
   display: flex;
   flex-direction:row;
-  gap:8px;
+  gap: inherit;
   flex-wrap: wrap;
   flex: 1 0 208px;
 }
 
 .info_card {
-  border-radius: 8px;
+  border-radius: 4px;
   text-align: center;
-  padding: 24px 0px;
-  min-width: 100px;
+  padding: 24px 0;
+  min-width: 200px;
   
-  flex: 1 0 100px;
+  flex: 1 0 200px;
 
   i {
     font-size: 32px;
     color: $primary-color;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
   }
 
-  p, h4 {
+  p, h5 {
     margin: 0;
     color: $text-color;
   }
 
-  h4 {
-    color: $primary-color;
+  h5 {
+    color: $background-color;
+    margin-bottom: 16px;
+
+    span {
+        background-color: $active-color;
+    }
+  }
+
+  p {
+    font-size: 0.75em;
+    font-weight: normal;
+  }
+}
+
+.link_card {
+  border-radius: 4px;
+  border: 1px solid #1D3C3D;
+  background: #0F2A2B;
+  box-shadow: 0 0 16px 0 rgba(69, 107, 108, 0.30);
+
+  text-align: center;
+  padding: 40px 16px;
+  min-width: 240px;
+  margin-bottom: 1.5em;
+
+  flex: 1 0 240px;
+
+  i {
+    color: $active-color;
     margin-bottom: 8px;
+  }
+
+  p, a {
+    margin: 0;
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  span {
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 0.75em;
   }
 
   &:hover {
     background-color: mix($primary-color, $background-color, 10%);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba($text-color, 0.30);
+    box-shadow: 0 0 16px 0 rgba($primary-color, 0.30);
+  }
+}
+
+.contrib_section {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  flex-wrap: wrap;
+
+  img {
+    flex: 1 0 0;
+    min-width: 400px;
+    object-fit: contain;
+    align-self: stretch;
+  }
+
+  div {
+    flex: 1 0 0;
   }
 }

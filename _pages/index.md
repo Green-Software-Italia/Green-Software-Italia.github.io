@@ -41,11 +41,18 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 </div>
 
 ## Contribuisci anche tu alla sostenibilità del tech 🫵
+{: .text-center }
 
-![Immagine con su scritto "We want you" e il logo della community Green Software Italia](/assets/images/we-want-you.webp){: .align-center }
+<div class="contrib_section">
+<img style="display: inline-block; width: 50%; margin-right: auto;" src="/assets/images/we-want-you.webp" alt='Immagine con su scritto "We want you" e il logo della community Green Software Italia'/>
+<div>
 
-Vuoi dare una mano con **eventi**, **contenuti**, **strumenti** o **advocacy**?
-Al seguente link trovi la nostra [Call for Contributors](https://forms.gle/7cPuexh3WT5LSn3N7)!
+{% include link_card.html url="https://sessionize.com/green-software-italia-meetup-1/" title="Call for Speaker" description="Se vuoi portare un <strong>talk</strong> a uno dei prossimi meetup"%}
 
-Non hai tempo, ma puoi offrire uno **spazio**?
-Qui trovi la [Call for Spaces](https://forms.gle/87rN6sE4u7adu2BZA)!
+{% include link_card.html url="https://forms.gle/87rN6sE4u7adu2BZA" title="Call for Spaces" description="Se non hai tempo, ma puoi offrire uno <strong>spazio</strong> dove ospitare un meetup "%}
+
+{% include link_card.html url="https://forms.gle/7cPuexh3WT5LSn3N7" title="Call for Contributors" description="Se vuoi dare una mano con <strong>eventi</strong>, <strong>contenuti</strong>, <strong>strumenti</strong> o <strong>advocacy</strong>"%}
+
+</div>
+
+</div>
