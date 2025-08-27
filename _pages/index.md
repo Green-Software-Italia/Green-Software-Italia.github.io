@@ -8,8 +8,9 @@ Green Software Italia è una community dedicata a esplorare l’impatto delle sc
 
 Come possiamo sviluppare software con un minore impatto ambientale? In che modo le aziende possono adottare pratiche più sostenibili? Quale ruolo giocano il cloud e il codice ottimizzato nella riduzione del consumo energetico? Queste sono alcune delle domande che guidano il nostro lavoro.
 
-## Cosa facciamo 🚀 
-{: .text-center }
+<div class="home_section">
+
+<h2> Cosa facciamo 🚀 </h2>
 
 <div class="card_list">
 <div class="card_pair">
@@ -23,9 +24,11 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 {% include info_card.html icon="fas fa-hand-holding-hand" title="Collaborazioni" description="con community, aziende e università per amplificare la cultura del Green IT"%}
 </div>
 </div>
+</div>
 
-## I nostri valori 🎯
-{: .text-center }
+
+<div class="home_section" id="bg">
+<h2> I nostri valori 🎯 </h2>
 
 <div class="card_list">
 <div class="card_pair">
@@ -39,9 +42,11 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 {% include info_card.html icon="fas fa-book-open-reader" title="Formazione e consapevolezza" description="Ogni scelta tecnologica ha un impatto e va considerata con attenzione"%}
 </div>
 </div>
+</div>
 
-## Contribuisci anche tu alla sostenibilità del tech 🫵
-{: .text-center }
+<div class="home_section">
+
+<h2> Contribuisci anche tu alla sostenibilità del tech 🫵 </h2>
 
 <div class="contrib_section">
 <img src="/assets/images/we-want-you.webp" alt='Immagine con su scritto "We want you" e il logo della community Green Software Italia'/>
@@ -54,5 +59,5 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 {% include link_card.html url="https://forms.gle/7cPuexh3WT5LSn3N7" title="Call for Contributors" description="Se vuoi dare una mano con <strong>eventi</strong>, <strong>contenuti</strong>, <strong>strumenti</strong> o <strong>advocacy</strong>"%}
 
 </div>
-
+</div>
 </div>
