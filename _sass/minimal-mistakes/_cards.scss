@@ -105,6 +105,7 @@
   flex-direction: row;
   gap: 2em;
   align-items: flex-start;
+  margin-top: 40px;
 
   @include breakpoint(max-width $medium) {
     flex-direction: column;
@@ -139,6 +140,7 @@
 }
 
 .home_section {
+    margin-top: 2em;
     padding-top: 4px;
     padding-bottom: 40px;
 
