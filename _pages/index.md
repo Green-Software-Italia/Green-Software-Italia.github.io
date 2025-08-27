@@ -44,7 +44,7 @@ Come possiamo sviluppare software con un minore impatto ambientale? In che modo 
 {: .text-center }
 
 <div class="contrib_section">
-<img style="display: inline-block; width: 50%; margin-right: auto;" src="/assets/images/we-want-you.webp" alt='Immagine con su scritto "We want you" e il logo della community Green Software Italia'/>
+<img src="/assets/images/we-want-you.webp" alt='Immagine con su scritto "We want you" e il logo della community Green Software Italia'/>
 <div>
 
 {% include link_card.html url="https://sessionize.com/green-software-italia-meetup-1/" title="Call for Speaker" description="Se vuoi portare un <strong>talk</strong> a uno dei prossimi meetup"%}
