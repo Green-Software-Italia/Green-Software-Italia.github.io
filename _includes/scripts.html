@@ -1,0 +1,32 @@
+{% if page.layout == "home" %}
+<!-- SimplyCountdown CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simplycountdown.js@3.0.1/dist/themes/dark.css">
+<!-- SimplyCountdown JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/simplycountdown.js@3.0.1/dist/simplyCountdown.umd.js"></script>
+<script>
+    // Imposta la data del prossimo evento
+    
+    simplyCountdown('#gsi-countdown', {
+        year: 2025,
+        month: 9,
+        day: 15,
+        hours: 18,
+        minutes: 30,
+        seconds: 0,
+        words: {
+            days: { root: 'giorno', lambda: (root, n) => n > 1 ? 'giorni' : root },
+            hours: { root: 'ora', lambda: (root, n) => n > 1 ? 'ore' : root },
+            minutes: { root: 'minuto', lambda: (root, n) => n > 1 ? 'minuti' : root },
+            seconds: { root: 'secondo', lambda: (root, n) => n > 1 ? 'secondi' : root }
+        },
+        plural: true,
+        inline: false,
+        enableUtc: false,
+        refresh: 1000,
+        zeroPad: true,
+        onEnd: function() {
+            document.querySelector('#gsi-countdown').innerHTML = '<div class="countdown-ended">🎉 L\'evento è iniziato! 🎉</div>';
+        }
+    });
+</script>
+{% endif %}

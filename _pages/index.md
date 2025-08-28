@@ -9,6 +9,12 @@ Green Software Italia è una community dedicata a esplorare l’impatto delle sc
 Come possiamo sviluppare software con un minore impatto ambientale? In che modo le aziende possono adottare pratiche più sostenibili? Quale ruolo giocano il cloud e il codice ottimizzato nella riduzione del consumo energetico? Queste sono alcune delle domande che guidano il nostro lavoro.
 
 <div class="home_section">
+    <h2> Il prossimo meetup inizia tra </h2>
+    <div id="gsi-countdown" class="gsi-countdown-dark">
+    </div>
+</div>
+
+<div class="home_section">
 
 <h2> Cosa facciamo 🚀 </h2>
 
