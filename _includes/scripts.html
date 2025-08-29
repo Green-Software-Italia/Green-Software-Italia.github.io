@@ -12,10 +12,10 @@
         minutes: {{ page.meetup_minute }},
         seconds: 0,
         words: {
-            days: { root: 'giorno', lambda: (root, n) => n > 1 ? 'giorni' : root },
-            hours: { root: 'ora', lambda: (root, n) => n > 1 ? 'ore' : root },
-            minutes: { root: 'minuto', lambda: (root, n) => n > 1 ? 'minuti' : root },
-            seconds: { root: 'secondo', lambda: (root, n) => n > 1 ? 'secondi' : root }
+            days: { root: 'giorno', lambda: (root, n) => n === 1 ? root : 'giorni' },
+            hours: { root: 'ora', lambda: (root, n) => n === 1 ? root : 'ore' },
+            minutes: { root: 'minuto', lambda: (root, n) => n === 1 ? root : 'minuti' },
+            seconds: { root: 'secondo', lambda: (root, n) => n === 1 ? root : 'secondi' }
         },
         plural: true,
         inline: false,
