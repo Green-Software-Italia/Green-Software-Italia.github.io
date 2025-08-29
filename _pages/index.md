@@ -4,9 +4,26 @@ layout: home
 permalink: /
 author_profile: false
 ---
-Green Software Italia è una community dedicata a esplorare l’impatto delle scelte tecnologiche e aziendali sul pianeta e sulla società. In un mondo sempre più digitale, crediamo sia fondamentale promuovere un approccio consapevole e responsabile all’innovazione, integrando sostenibilità, efficienza ed equità.
 
-Come possiamo sviluppare software con un minore impatto ambientale? In che modo le aziende possono adottare pratiche più sostenibili? Quale ruolo giocano il cloud e il codice ottimizzato nella riduzione del consumo energetico? Queste sono alcune delle domande che guidano il nostro lavoro.
+<div class="home_section">
+
+<h2> Chi siamo </h2>
+
+<p class="text-center">Green Software Italia è una community dedicata a esplorare l’impatto delle scelte tecnologiche e aziendali sul pianeta e sulla società. In un mondo sempre più digitale, crediamo sia fondamentale promuovere un approccio consapevole e responsabile all’innovazione, integrando sostenibilità, efficienza ed equità.
+</p>
+
+<div class="card_list">
+
+{% include team_card.html name="Valeria Salis" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/valeria-salis"%}
+{% include team_card.html name="Chiara Corrado" imgsrc="/assets/images/img_Chiara.webp" url="https://www.linkedin.com/in/chiaracorrado"%}
+{% include team_card.html name="Andrea Saltarello" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/andysal"%}
+{% include team_card.html name="Ludovica Bonaldo" imgsrc="/assets/images/img_Ludo.webp" url="https://www.linkedin.com/in/ludovica-bonaldo"%}
+{% include team_card.html name="Mich Murabito" imgsrc="/assets/images/img_Mich.webp" url="https://www.linkedin.com/in/mich-murabito"%}
+{% include team_card.html name="Andrea Bordoni" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/andreabordoni"%}
+
+</div>
+
+</div>
 
 <div class="home_section">
 
