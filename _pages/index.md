@@ -3,10 +3,32 @@ title: "Green Software Italia 🌱"
 layout: home
 permalink: /
 author_profile: false
+countdown: false
+meetup_link: ""
+calendar_link: 
+meetup_day: 29
+meetup_month: 08
+meetup_year: 2025
+meetup_hour: 17
+meetup_minute: 55
 ---
 Green Software Italia è una community dedicata a esplorare l’impatto delle scelte tecnologiche e aziendali sul pianeta e sulla società. In un mondo sempre più digitale, crediamo sia fondamentale promuovere un approccio consapevole e responsabile all’innovazione, integrando sostenibilità, efficienza ed equità.
 
 Come possiamo sviluppare software con un minore impatto ambientale? In che modo le aziende possono adottare pratiche più sostenibili? Quale ruolo giocano il cloud e il codice ottimizzato nella riduzione del consumo energetico? Queste sono alcune delle domande che guidano il nostro lavoro.
+
+{% if page.countdown == true %}
+<div class="countdown_section">
+    <h2> Il prossimo meetup inizia tra </h2>
+    <div id="meetup-countdown" class="countdown-dark">
+    </div>
+    <div class="button_group">
+        <a class="btn btn--inverse" href="{{ page.meetup_link }}" target='_blank'>Iscriviti al meetup</a>
+        {% if page.calendar_link %}
+        <a class="btn btn--light-outline" href="{{ page.calendar_link }}" target='_blank'>Aggiungi al calendario</a>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
 
 <div class="home_section">
 
