@@ -3,10 +3,10 @@ title: "Green Software Italia 🌱"
 layout: home
 permalink: /
 author_profile: false
-countdown: true
-meetup_link: "https://www.eventbrite.it/e/biglietti-green-software-italia-kickoff-meetup-1269305078659"
+countdown: false
+meetup_link: ""
 calendar_link: 
-meetup_day: 28
+meetup_day: 29
 meetup_month: 08
 meetup_year: 2025
 meetup_hour: 17
