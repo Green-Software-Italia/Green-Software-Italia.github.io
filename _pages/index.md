@@ -16,10 +16,10 @@ author_profile: false
 
 {% include team_card.html name="Valeria Salis" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/valeria-salis"%}
 {% include team_card.html name="Chiara Corrado" imgsrc="/assets/images/img_Chiara.webp" url="https://www.linkedin.com/in/chiaracorrado"%}
-{% include team_card.html name="Andrea Saltarello" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/andysal"%}
 {% include team_card.html name="Ludovica Bonaldo" imgsrc="/assets/images/img_Ludo.webp" url="https://www.linkedin.com/in/ludovica-bonaldo"%}
+{% include team_card.html name="Andrea Saltarello" imgsrc="/assets/images/img_AndreaS.webp" url="https://www.linkedin.com/in/andysal"%}
 {% include team_card.html name="Mich Murabito" imgsrc="/assets/images/img_Mich.webp" url="https://www.linkedin.com/in/mich-murabito"%}
-{% include team_card.html name="Andrea Bordoni" imgsrc="/assets/images/img_Vale.webp" url="https://www.linkedin.com/in/andreabordoni"%}
+{% include team_card.html name="Andrea Bordoni" imgsrc="/assets/images/img_AndreaB.webp" url="https://www.linkedin.com/in/andreabordoni"%}
 
 </div>
 

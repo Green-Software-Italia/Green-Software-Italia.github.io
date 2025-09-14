@@ -171,12 +171,19 @@
   width: 25%;
   margin: 2em 0 0;
   min-width: 200px;
-    img {
-        width: 100%;
-        height: auto;
-        border-radius: 4px;
-        margin-bottom: 0.75em;
-    }
+    div {
+      background: #0F2A2B;
+          width: 100%;
+          height: auto;
+          border-radius: 4px;
+          margin-bottom: 0.75em;
+          border: 1px solid transparent;
+          transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+          overflow: hidden;
+        img {
+          mix-blend-mode: plus-lighter;
+        }
+      }
 
     p {
         margin: 0;
@@ -188,5 +195,14 @@
     a {
         text-decoration: none;
         color: inherit; /* Inherit text color */
+    }
+    
+    &:hover {
+        div {
+            transform: scale(1.05);
+            border-color: rgba($text-color, 0.30);
+            box-shadow: 0 0 16px 0 rgba($primary-color, 0.30);
+            background-color: mix($primary-color, $background-color, 10%);
+        }
     }
   }
