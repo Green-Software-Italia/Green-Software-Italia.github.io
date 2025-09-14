@@ -11,10 +11,10 @@ header:
   actions:
   - label: "Cosa facciamo"
     url: "#cosa-facciamo"
-    style: "primary"
+    style: "inverse"
   - label: "Contribuisci anche tu"
     url: "#contribuisci-anche-tu"
-    style: "secondary"
+    style: "light-outline"
 
 ---
 <div class="home_section">
