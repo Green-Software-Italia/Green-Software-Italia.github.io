@@ -15,8 +15,29 @@ header:
   - label: "Contribuisci anche tu"
     url: "#contribuisci-anche-tu"
     style: "light-outline"
+countdown: false
+meetup_link: ""
+calendar_link: 
+meetup_day: 29
+meetup_month: 08
+meetup_year: 2025
+meetup_hour: 17
+meetup_minute: 55
 
----
+{% if page.countdown == true %}
+<div class="countdown_section">
+    <h2> Il prossimo meetup inizia tra </h2>
+    <div id="meetup-countdown" class="countdown-dark">
+    </div>
+    <div class="button_group">
+        <a class="btn btn--inverse" href="{{ page.meetup_link }}" target='_blank'>Iscriviti al meetup</a>
+        {% if page.calendar_link %}
+        <a class="btn btn--light-outline" href="{{ page.calendar_link }}" target='_blank'>Aggiungi al calendario</a>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+
 <div class="home_section">
 
 <h2 id="cosa-facciamo"> Cosa facciamo 🚀 </h2>

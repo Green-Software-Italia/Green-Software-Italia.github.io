@@ -1,0 +1,90 @@
+/* ==========================================================================
+   COUNTDOWN
+   ========================================================================== */
+
+.countdown_section {
+    h2 {
+        text-align: center;
+    }
+}
+
+.countdown_section {
+    > * {
+    margin-bottom: 1.5em;
+}
+}
+
+/* Custom styling for simply-countdown */
+.countdown-dark {
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem;
+  font-family: $sans-serif;
+}
+
+.countdown-dark > .simply-section {
+  width: 65px;
+  height: 65px;
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0F2A2B;
+  border: 1px solid #0F2A2B;
+  border-radius: 4px;
+}
+
+.countdown-dark > .simply-section > div {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+  align-items: center;
+}
+
+.countdown-dark > .simply-section .simply-amount {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $primary-color;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+}
+
+.countdown-dark > .simply-section .simply-word {
+  font-size: 0.6rem;
+  font-weight: 400;
+  color: $text-color;
+}
+
+@media (min-width: 640px) {
+  .countdown-dark > .simply-section {
+    width: 75px;
+    height: 75px;
+    padding: 1.75rem;
+  }
+
+  .countdown-dark > .simply-section .simply-amount {
+    font-size: 1.75rem;
+  }
+
+  .countdown-dark > .simply-section .simply-word {
+    font-size: 0.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .countdown-dark > .simply-section {
+    width: 108px;
+    height: 108px;
+    padding: 2rem;
+  }
+
+  .countdown-dark > .simply-section .simply-amount {
+    font-size: 2rem;
+  }
+
+  .countdown-dark > .simply-section .simply-word {
+    font-size: 0.8rem;
+  }
+}
