@@ -1,0 +1,30 @@
+{% if page.layout == "home" and page.countdown == true %}
+<!-- SimplyCountdown JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/simplycountdown.js@3.0.1/dist/simplyCountdown.umd.js"></script>
+<script>
+    // Imposta la data del prossimo evento
+    
+    simplyCountdown('#meetup-countdown', {
+        year: {{ page.meetup_year }},
+        month: {{ page.meetup_month }},
+        day: {{ page.meetup_day }},
+        hours: {{ page.meetup_hour }},
+        minutes: {{ page.meetup_minute }},
+        seconds: 0,
+        words: {
+            days: { root: 'giorno', lambda: (root, n) => n === 1 ? root : 'giorni' },
+            hours: { root: 'ora', lambda: (root, n) => n === 1 ? root : 'ore' },
+            minutes: { root: 'minuto', lambda: (root, n) => n === 1 ? root : 'minuti' },
+            seconds: { root: 'secondo', lambda: (root, n) => n === 1 ? root : 'secondi' }
+        },
+        plural: true,
+        inline: false,
+        enableUtc: false,
+        refresh: 1000,
+        zeroPad: true,
+        onEnd: function() {
+            document.querySelector('#meetup-countdown').innerHTML = '<div class="countdown-ended">🎉 L\'evento è iniziato! 🎉</div>';
+        }
+    });
+</script>
+{% endif %}

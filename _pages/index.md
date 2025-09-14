@@ -3,11 +3,44 @@ title: "Green Software Italia 🌱"
 layout: home
 permalink: /
 author_profile: false
+tagline: "Una community per un futuro digitale sostenibile e inclusivo."
+tagline-as-title: true
+header:
+  overlay_image: /assets/images/header-home.webp
+  overlay_filter: 0.5
+  actions:
+  - label: "Cosa facciamo"
+    url: "#cosa-facciamo"
+    style: "inverse"
+  - label: "Contribuisci anche tu"
+    url: "#contribuisci-anche-tu"
+    style: "light-outline"
+countdown: false
+meetup_link: ""
+calendar_link: 
+meetup_day: 29
+meetup_month: 08
+meetup_year: 2025
+meetup_hour: 17
+meetup_minute: 55
 ---
 
 <div class="home_section">
-
-<h2> Chi siamo </h2>
+  {% if page.countdown == true %}
+<div class="countdown_section">
+    <h2> Il prossimo meetup inizia tra </h2>
+    <div id="meetup-countdown" class="countdown-dark">
+    </div>
+    <div class="button_group">
+        <a class="btn btn--inverse" href="{{ page.meetup_link }}" target='_blank'>Iscriviti al meetup</a>
+        {% if page.calendar_link %}
+        <a class="btn btn--light-outline" href="{{ page.calendar_link }}" target='_blank'>Aggiungi al calendario</a>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+  
+  <h2> Chi siamo </h2>
 
 <p class="text-center">Green Software Italia è una community dedicata a esplorare l’impatto delle scelte tecnologiche e aziendali sul pianeta e sulla società. In un mondo sempre più digitale, crediamo sia fondamentale promuovere un approccio consapevole e responsabile all’innovazione, integrando sostenibilità, efficienza ed equità.
 </p>
@@ -23,11 +56,7 @@ author_profile: false
 
 </div>
 
-</div>
-
-<div class="home_section">
-
-<h2> Cosa facciamo 🚀 </h2>
+<h2 id="cosa-facciamo"> Cosa facciamo 🚀 </h2>
 
 <div class="card_list">
 <div class="card_pair">
@@ -63,7 +92,7 @@ author_profile: false
 
 <div class="home_section">
 
-<h2> Contribuisci anche tu alla sostenibilità del tech 🫵 </h2>
+<h2 id="contribuisci-anche-tu"> Contribuisci anche tu alla sostenibilità del tech 🫵 </h2>
 
 <div class="contrib_section">
 <img src="/assets/images/we-want-you.webp" alt='Immagine con su scritto "We want you" e il logo della community Green Software Italia'/>
