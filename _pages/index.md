@@ -7,6 +7,7 @@ tagline: "Una community per un futuro digitale sostenibile e inclusivo."
 tagline-as-title: true
 header:
   overlay_image: /assets/images/header-home.webp
+  overlay_filter: 0.5
   actions:
   - label: "Cosa facciamo"
     url: "#cosa-facciamo"
