@@ -56,6 +56,10 @@
   }
 }
 
+/*
+   Link cards
+   ========================================================================== */
+
 .link_card {
   border-radius: 4px;
   border: 1px solid #1D3C3D;
@@ -65,6 +69,8 @@
   text-align: center;
   padding: 40px 16px;
   margin-bottom: 0;
+  transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  overflow: hidden;
 
   flex: 1 1 auto;
 
@@ -95,15 +101,12 @@
   }
 
   &:hover {
+    transform: scale(1.05);
     background-color: mix($primary-color, $background-color, 10%);
     border: 1px solid rgba($text-color, 0.30);
     box-shadow: 0 0 16px 0 rgba($primary-color, 0.30);
   }
 }
-
-/*
-   Link cards
-   ========================================================================== */
 
 .contrib_section {
   display: flex;
