@@ -11,16 +11,26 @@ In un mondo dove la tecnologia è sempre più presente, il nostro compito è con
 
 Un progetto nasce meglio quando trova alleati che credono negli stessi valori. Per questo, vogliamo ringraziare di cuore 💚 chi crede e sostiene Green Software Italia 🫂 
 
-<div style="display: flex; direction: row; gap: 2rem; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; direction: row; gap: 2rem; flex-wrap: wrap; justify-content: center; align-items: center;">
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/improove.webp" alt="Improove" />
+<a href="https://www.improove.tech/" target='_blank'>
+    <img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/improove.webp" alt="Improove" />
+</a>
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/Webday.webp" alt="Web day" />
+<a href="https://www.webdayconf.it/" target='_blank'>
+    <img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/Webday.webp" alt="Web day" />
+</a>
 
-<img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/GrUSP.webp" alt="GrUSP" />
+<a href="https://www.grusp.org/" target='_blank'>
+    <img style="width:300px; align-self: center" src="{{ relative_url }}/assets/images/GrUSP.webp" alt="GrUSP" />
+</a>
 
-<img style="width:280px; align-self: center" src="{{ relative_url }}/assets/images/Better_Software.webp" alt="Better Software" />
+<a href="https://www.bettersoftware.it/" target='_blank'>
+    <img style="width:280px; align-self: center" src="{{ relative_url }}/assets/images/Better_Software.webp" alt="Better Software" />
+</a>
 
-<img style="width:260px; align-self: center" src="{{ relative_url }}/assets/images/tag_logo.webp" alt="Talent Garden" />
+<a href="https://talentgarden.com" target='_blank'>
+    <img style="width:260px; align-self: center" src="{{ relative_url }}/assets/images/tag_logo.webp" alt="Talent Garden" />
+</a>
 
 </div>
