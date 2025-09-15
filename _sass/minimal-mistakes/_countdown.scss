@@ -3,15 +3,15 @@
    ========================================================================== */
 
 .countdown_section {
-    h2 {
-        text-align: center;
-    }
-}
+  h2 {
+      text-align: center;
+  }
 
-.countdown_section {
-    > * {
-    margin-bottom: 1.5em;
-}
+  > * {
+  margin-bottom: 1.5em;
+  }
+
+  margin: 4em;
 }
 
 /* Custom styling for simply-countdown */
