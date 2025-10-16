@@ -16,13 +16,13 @@ header:
     url: "#contribuisci-anche-tu"
     style: "light-outline"
 countdown: true
-meetup_link: "https://tinyurl.com/gsi-3-meetup"
-calendar_link: 
+meetup_link: "https://www.eventbrite.com/e/biglietti-green-software-italia-3-meetup-1813716186939"
+calendar_link: /assets/calendar/GSI_3_meetup.ics
 meetup_day: 20
 meetup_month: 11
 meetup_year: 2025
 meetup_hour: 18
-meetup_minute: 45
+meetup_minute: 30
 ---
 {% if page.countdown == true %}
 <div class="countdown_section">
