@@ -15,12 +15,12 @@ header:
   - label: "Contribuisci anche tu"
     url: "#contribuisci-anche-tu"
     style: "light-outline"
-countdown: false
-meetup_link: "https://www.eventbrite.com/e/biglietti-green-software-italia-3-meetup-1813716186939"
-calendar_link: /assets/calendar/GSI_3_meetup.ics
-meetup_day: 20
-meetup_month: 11
-meetup_year: 2025
+countdown: true
+meetup_link: "https://www.eventbrite.com/e/green-software-italia-4-meetup-tickets-1984280636800"
+calendar_link: /assets/calendar/GSI_4_meetup.ics
+meetup_day: 30
+meetup_month: 03
+meetup_year: 2026
 meetup_hour: 18
 meetup_minute: 30
 ---
