@@ -4,6 +4,15 @@ Hi everyone and welcome to Green Software Italia's website repository! 🌱
 
 In this repository you can find the source code of the website of Green Software Italia, a community that aims to promote the development of sustainable software, a more inclusive, accessible and diverse tech industry.
 
+## Requirements
+
+- Ruby 2.7.0 to 3.1.0
+- Bundler and RubyGems included with your Ruby installation
+
+Recommended:
+
+- Ruby 3.1.0
+
 ## How to run this project locally
 
 1. Clone this repository
