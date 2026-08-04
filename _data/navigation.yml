@@ -1,3 +1,5 @@
 main:
+  - title: "Newsletter"
+    url: /newsletter/
   - title: "About"
     url: /about/
