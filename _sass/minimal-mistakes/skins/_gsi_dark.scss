@@ -141,3 +141,12 @@ $base0f: #FF6467 !default;
 strong {
   color: $primary-color;
 }
+
+/* Author cards */
+.author__avatar {
+  img {
+    max-width: 200px;
+    background: $background-color;
+    mix-blend-mode: plus-lighter;
+  }
+}
