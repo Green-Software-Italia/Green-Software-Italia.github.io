@@ -1,0 +1,17 @@
+Gea Angiulli:
+  name        : "Gea Angiulli"
+  bio         : Carbon manager \| Sustainability Consultant \| Divulgatrice ambientale
+  avatar      : "/assets/images/img_Gea.webp"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gea-angiulli"
+
+Chiara Corrado:
+  name        : "Chiara Corrado"
+  bio         : "Senior Software Engineer @ Aruba Software"
+  avatar      : "/assets/images/img_Chiara.webp"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chiaracorrado"
