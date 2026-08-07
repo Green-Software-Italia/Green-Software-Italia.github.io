@@ -342,24 +342,24 @@ it: &DEFAULT_IT
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorie:"
-  date_label                 : "Aggiornato:"
+  date_label                 : "Pubblicato:"
   comments_label             : "Scrivi un commento"
   comments_title             :
   more_label                 : "Scopri di più"
-  related_label              : "Potrebbe Piacerti Anche"
-  follow_label               : "Segui:"
+  related_label              : "Potrebbe piacerti anche"
+  follow_label               : "Seguici su"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
-  website_label              : "Website"
+  website_label              : "Sito web"
   email_label                : "Email"
-  recent_posts               : "Articoli Recenti"
+  recent_posts               : "Articoli recenti"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          : "Il tuo indirizzo email non sarà pubblicato. Sono segnati i campi obbligatori"
   comment_form_comment_label : "Commenta"
   comment_form_md_info       : "Il linguaggio Markdown è supportato"
   comment_form_name_label    : "Nome"
   comment_form_email_label   : "Indirizzo email"
-  comment_form_website_label : "Sito Web (opzionale)"
+  comment_form_website_label : "Sito web (opzionale)"
   comment_btn_submit         : "Invia commento"
   comment_btn_submitted      : "Inviato"
   comment_success_msg        : "Grazie per il tuo commento! Verrà visualizzato nel sito una volta che sarà approvato."
@@ -369,7 +369,7 @@ it: &DEFAULT_IT
   search_placeholder_text    : "Inserisci termini di ricerca..."
   search_algolia_no_results  :
   results_found              : "Risultati"
-  back_to_top                : "Vai su"
+  back_to_top                : "Ritorna su"
 it-IT:
   <<: *DEFAULT_IT
 
