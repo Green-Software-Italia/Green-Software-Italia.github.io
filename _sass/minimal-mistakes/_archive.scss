@@ -149,11 +149,14 @@
 }
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 
-  @include breakpoint($small) {
+  float: inline-start;
+  width: span(6 of 6);
+
+  @include breakpoint($medium) {
     float: inline-start;
-    width: span(5 of 10);
+    width: span(3 of 6);
 
     &:nth-child(2n + 1) {
       clear: both;
@@ -162,35 +165,7 @@
 
     &:nth-child(2n + 2) {
       clear: none;
-      margin-inline-start: gutter(of 10);
-    }
-  }
-
-  @include breakpoint($medium) {
-    margin-inline: 0; /* override margin*/
-    width: span(3 of 12);
-
-    &:nth-child(2n + 1) {
-      clear: none;
-    }
-
-    &:nth-child(4n + 1) {
-      clear: both;
-    }
-
-    &:nth-child(4n + 2) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 3) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 4) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
+      margin-inline-start: gutter(of 6);
     }
   }
 
@@ -213,12 +188,8 @@
   }
 
   .archive__item-excerpt {
-    display: none;
-
-    @include breakpoint($medium) {
-      display: block;
-      font-size: $type-size-6;
-    }
+    display: block;
+    font-size: $type-size-6;
   }
 
   .archive__item-teaser {

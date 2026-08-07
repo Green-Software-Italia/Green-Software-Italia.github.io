@@ -352,7 +352,7 @@ it: &DEFAULT_IT
   powered_by                 : "Powered by"
   website_label              : "Sito web"
   email_label                : "Email"
-  recent_posts               : "Articoli recenti"
+  recent_posts               : "Gli ultimi articoli"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          : "Il tuo indirizzo email non sarà pubblicato. Sono segnati i campi obbligatori"
   comment_form_comment_label : "Commenta"
